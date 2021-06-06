@@ -18,8 +18,9 @@ printf "
 |____/   \___|  \__|  \___/  |_|
 "                                
 echo
-echo "🐨 NIH TAK KASIH CARA BIAR GAMPANG LOGIN VPS AWS wkwk 🐨"
-echo "============================================"
+echo "🐨 NIH TAK KASIH CARA 
+BIAR GAMPANG LOGIN VPS AWS wkwk 🐨"
+echo "==========Detol============="
 user=root
 echo "KASIH PASWORDNYA COYYYY: " 
 read -e pw
@@ -30,12 +31,17 @@ usermod --password $pwe $user
 clear
 
 echo ""
-printf "🐨 INGATTTT.. Simpan Paswordnya coy kalo gamau gw havk WKWKWK 🐨
-============================================
-Ip address = $ip
-Username   = $user
-Password   = $pw
-============================================"
+printf "🐨 INGATTTT..
+Simpan Paswordnya coy
+kalo gamau gw havk WKWKWK 🐨
+
+=================
+
+Ip address = `$ip`
+Username   = **$user**
+Password   = `$pw`
+
+================="
 sleep 1
 echo ""
 echo 

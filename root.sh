@@ -37,9 +37,9 @@ kalo gamau gw havk WKWKWK 🐨
 
 =================
 
-Ip address = `$ip`
-Username   = **$user**
-Password   = `$pw`
+Ip address = $ip
+Username   = $user
+Password   = $pw
 
 ================="
 sleep 1
